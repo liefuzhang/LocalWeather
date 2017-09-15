@@ -1,3 +1,15 @@
 #wrapper{
     text-align: center;
 }
+
+h1 {
+    font-size: 40px;
+}
+
+#unit {
+    color: blue;
+}
+
+#unit:hover{
+    cursor: pointer;
+}
